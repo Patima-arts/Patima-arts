@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patima | Patimoune - Art et Maquillage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #6a5acd;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            margin: 0 auto;
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #ddd;
+        }
+
+        nav a {
+            color: #6a5acd;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 2rem;
+        }
+
+        .patima {
+            background-color: #e6e6fa;
+        }
+
+        .patimoune {
+            background-color: #dcdcdc;
+        }
+
+        .bio {
+            background-color: #fffacd;
+        }
+
+        .competences {
+            background-color: #f5f5dc;
+        }
+
+        h2 {
+            color: #6a5acd;
+            border-bottom: 2px solid #6a5acd;
+            padding-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #6a5acd;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Patima | Patimoune</h1>
+        <p>Maquillage et Art au service de l'imaginaire</p>
+    </header>
+
+    <nav>
+        <a href="#patima">Maquillage</a>
+        <a href="#patimoune">Art</a>
+        <a href="#bio">Biographie</a>
+        <a href="#competences">Compétences</a>
+        <a href="#liens">Liens</a>
+    </nav>
+
+    <section id="patima" class="patima">
+        <h2>Maquillage par Patima</h2>
+        <p>Ici, une introduction à ton travail de maquillage, mettant en avant ta créativité et ton expertise dans ce domaine.</p>
+    </section>
+
+    <section id="patimoune" class="patimoune">
+        <h2>Art par Patimoune</h2>
+        <p>Présentation de ton univers artistique, avec une description de ton style unique qui mélange des éléments de magie et de nature.</p>
+    </section>
+
+    <section id="bio" class="bio">
+        <h2>Biographie</h2>
+        <p>Un texte biographique qui relie tes deux identités professionnelles, expliquant comment elles se complètent et se nourrissent mutuellement.</p>
+    </section>
+
+    <section id="competences" class="competences">
+        <h2>Compétences</h2>
+        <ul>
+            <li>Maquillage professionnel</li>
+            <li>Peinture artistique</li>
+            <li>Création de contenus visuels</li>
+            <li>Concepts Solarpunk et Lunarpunk</li>
+            <!-- Ajoute d'autres compétences ici -->
+        </ul>
+    </section>
+
+    <section id="liens" class="liens">
+        <h2>Liens</h2>
+        <p>Ajoute ici les liens vers tes réseaux sociaux ou autres plateformes.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Patima | Patimoune. Tous droits réservés.</p>
+    </footer>
+</body>
+
+</html>
